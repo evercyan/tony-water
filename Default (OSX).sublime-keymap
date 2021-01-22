@@ -1,0 +1,14 @@
+[
+    {
+        "keys": [
+            "super+t"
+        ],
+        "command": "tony_show_open_files"
+    },
+    {
+        "keys": [
+            "super+j"
+        ],
+        "command": "tony_json_to_go"
+    }
+]
