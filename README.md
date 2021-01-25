@@ -28,7 +28,7 @@ git clone https://github.com/evercyan/tony-water
 
 - 配置快捷键
 
-具体 `command` 见 `Context.sublime-menu`
+具体 `command` 见 `Default.sublime-commands`
 
 ---
 
