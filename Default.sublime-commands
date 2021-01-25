@@ -1,0 +1,70 @@
+[
+    {
+        "caption": "JSON Pretty",
+        "command": "tony_json_pretty"
+    },
+    {
+        "caption": "JSON Minify",
+        "command": "tony_json_minify"
+    },
+    {
+        "caption": "Timestamp To Date",
+        "command": "tony_timestamp_to_date"
+    },
+    {
+        "caption": "Date To Timestamp",
+        "command": "tony_date_to_timestamp"
+    },
+    {
+        "caption": "Timestamp",
+        "command": "tony_timestamp"
+    },
+    {
+        "caption": "To Upper",
+        "command": "tony_to_upper"
+    },
+    {
+        "caption": "To Lower",
+        "command": "tony_to_lower"
+    },
+    {
+        "caption": "To Half Angle",
+        "command": "tony_half_angle"
+    },
+    {
+        "caption": "To Full Angle",
+        "command": "tony_full_angle"
+    },
+    {
+        "caption": "Url Encode",
+        "command": "tony_url_encode"
+    },
+    {
+        "caption": "Url Decode",
+        "command": "tony_url_decode"
+    },
+    {
+        "caption": "String Escape",
+        "command": "tony_string_escape"
+    },
+    {
+        "caption": "String UnEscape",
+        "command": "tony_string_unescape"
+    },
+    {
+        "caption": "Unicode Encode",
+        "command": "tony_unicode_encode"
+    },
+    {
+        "caption": "Unicode Decode",
+        "command": "tony_unicode_decode"
+    },
+    {
+        "caption": "Md5",
+        "command": "tony_md5"
+    },
+    {
+        "caption": "JSON To Go Struct",
+        "command": "tony_json_to_go"
+    }
+]
