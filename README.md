@@ -1,6 +1,6 @@
 <div align="center">
 
-![tony-water](https://raw.githubusercontent.com/evercyan/cantor/master/resource/a6/a6658e4ee75fbcc60fe83abc5c31edb8.png)
+![tony-water](https://cdn.jsdelivr.net/gh/evercyan/repository/resource/a6/a6658e4ee75fbcc60fe83abc5c31edb8.png)
 
 一个 tony 带水的 sublime-text 插件
 
@@ -24,7 +24,7 @@ git clone https://github.com/evercyan/tony-water
 
 - 编辑区, 右键
 
-![tony-water-menu](https://raw.githubusercontent.com/evercyan/cantor/master/resource/d6/d68c788449654a1858b1d7fcad4df43b.png)
+![tony-water-menu](https://cdn.jsdelivr.net/gh/evercyan/repository/resource/d6/d68c788449654a1858b1d7fcad4df43b.png)
 
 - 配置快捷键
 
